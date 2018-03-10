@@ -1,6 +1,5 @@
-# Pool-based_Allocator
-Description:
-Implement pool-based allocator which respects provided interface
+# Description:
+### Implement pool-based allocator which respects provided interface
 
 * Pool allocator internally should use chunks of a same size
   * *Chunk size and amount of chunks passed in constructor.*
