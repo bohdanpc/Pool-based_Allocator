@@ -17,7 +17,7 @@
 * Clear makes all chunks “free”.
 
 ## Image explanation
-![alt text](https://github.com/bohdanpc/Pool-based_Allocator/edit/master/PoolAllocator_png.png)
+![allocator](https://github.com/bohdanpc/Pool-based_Allocator/PoolAllocator_png.png)
 
 Whenever an allocation request is made – simply grab the next free element oﬀ  the free list and return it
 When an element is freed, we simply tack it back onto the free list
