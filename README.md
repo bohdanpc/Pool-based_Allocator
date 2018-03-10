@@ -18,7 +18,7 @@
 
 ### Pool Allocator
 ![allocator1](https://github.com/bohdanpc/Pool-based_Allocator/blob/master/PoolAllocator_png.png)
-
+##
 ![allocator2](https://github.com/bohdanpc/Pool-based_Allocator/blob/master/PoolAllocator_png2.png)
 
 Whenever an allocation request is made – simply grab the next free element oﬀ  the free list and return it
